@@ -1,3 +1,3 @@
 # NewsEcho
 
-##https://newsecho.vercel.app/
+## https://newsecho.vercel.app/
